@@ -1,0 +1,890 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 7339,
+      "max": [
+        0.5478399991989136,
+        0.016359999775886536,
+        0.09922000020742416
+      ],
+      "min": [
+        -0.10659000277519226,
+        -0.020829999819397926,
+        -0.07898999750614166
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 88068,
+      "componentType": 5126,
+      "count": 7339,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 176136,
+      "componentType": 5126,
+      "count": 7339,
+      "max": [
+        0.09803921729326248,
+        0.09803921729326248,
+        0.09803921729326248
+      ],
+      "min": [
+        0.09803921729326248,
+        0.09803921729326248,
+        0.09803921729326248
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7339,
+      "max": [
+        1.1416300535202026,
+        0.9994199872016907
+      ],
+      "min": [
+        -0.005779999773949385,
+        7.000000186963007e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 8487,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 264204,
+      "componentType": 5126,
+      "count": 3022,
+      "max": [
+        0.32166001200675964,
+        0.026119999587535858,
+        0.09318999946117401
+      ],
+      "min": [
+        0.160180002450943,
+        -0.025350000709295273,
+        0.00646999990567565
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 300468,
+      "componentType": 5126,
+      "count": 3022,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 336732,
+      "componentType": 5126,
+      "count": 3022,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.09803921729326248,
+        0.09803921729326248,
+        0.09803921729326248
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 58712,
+      "componentType": 5126,
+      "count": 3022,
+      "max": [
+        0.6374499797821045,
+        0.8289399743080139
+      ],
+      "min": [
+        0.0003800000122282654,
+        0.4686500132083893
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 33948,
+      "componentType": 5125,
+      "count": 3369,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 372996,
+      "componentType": 5126,
+      "count": 380,
+      "max": [
+        -0.10197000205516815,
+        0.016359999775886536,
+        0.054760001599788666
+      ],
+      "min": [
+        -0.33956000208854675,
+        -0.017829999327659607,
+        -0.053210001438856125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 377556,
+      "componentType": 5126,
+      "count": 380,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 382116,
+      "componentType": 5126,
+      "count": 380,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 82888,
+      "componentType": 5126,
+      "count": 380,
+      "max": [
+        0.9999300241470337,
+        0.9982399940490723
+      ],
+      "min": [
+        -0.6117600202560425,
+        -7.000000186963007e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 47424,
+      "componentType": 5125,
+      "count": 522,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 386676,
+      "componentType": 5126,
+      "count": 164,
+      "max": [
+        -0.11548999696969986,
+        0.01484999991953373,
+        0.0515500009059906
+      ],
+      "min": [
+        -0.24025000631809235,
+        -0.012409999966621399,
+        0.011130000464618206
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 388644,
+      "componentType": 5126,
+      "count": 164,
+      "max": [
+        0.9192091226577759,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9935972690582275,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 390612,
+      "componentType": 5126,
+      "count": 164,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 85928,
+      "componentType": 5126,
+      "count": 164,
+      "max": [
+        0.9375900030136108,
+        0.8542400002479553
+      ],
+      "min": [
+        0.0011099999537691474,
+        0.4815100133419037
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 49512,
+      "componentType": 5125,
+      "count": 198,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 392580,
+      "componentType": 5126,
+      "count": 1453,
+      "max": [
+        0.20383000373840332,
+        0.016909999772906303,
+        0.08787000179290771
+      ],
+      "min": [
+        -0.20215000212192535,
+        -0.016790000721812248,
+        0.015850000083446503
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 410016,
+      "componentType": 5126,
+      "count": 1453,
+      "max": [
+        0.9035229086875916,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9035186767578125,
+        -1.0,
+        -0.9035186171531677
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 427452,
+      "componentType": 5126,
+      "count": 1453,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 87240,
+      "componentType": 5126,
+      "count": 1453,
+      "max": [
+        0.9945200085639954,
+        0.9965699911117554
+      ],
+      "min": [
+        0.136570006608963,
+        0.008550000376999378
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 50304,
+      "componentType": 5125,
+      "count": 1764,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 444888,
+      "componentType": 5126,
+      "count": 407,
+      "max": [
+        0.31746000051498413,
+        0.012839999981224537,
+        0.07794000208377838
+      ],
+      "min": [
+        0.04529999941587448,
+        -0.03311000019311905,
+        0.04774999991059303
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 449772,
+      "componentType": 5126,
+      "count": 407,
+      "max": [
+        0.9999997615814209,
+        0.9238808751106262,
+        0.999907374382019
+      ],
+      "min": [
+        -0.9999997615814209,
+        -0.9999997615814209,
+        -0.9998486638069153
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 454656,
+      "componentType": 5126,
+      "count": 407,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 98864,
+      "componentType": 5126,
+      "count": 407,
+      "max": [
+        0.9914600253105164,
+        0.7694699764251709
+      ],
+      "min": [
+        0.6508700251579285,
+        0.5604299902915955
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 57360,
+      "componentType": 5125,
+      "count": 435,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 459540,
+      "componentType": 5126,
+      "count": 1597,
+      "max": [
+        0.1254899948835373,
+        0.010739999823272228,
+        0.0019499999471008778
+      ],
+      "min": [
+        -0.07470999658107758,
+        -0.010739999823272228,
+        -0.21044999361038208
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 478704,
+      "componentType": 5126,
+      "count": 1597,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9950376152992249
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 497868,
+      "componentType": 5126,
+      "count": 1597,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.09803921729326248,
+        0.09803921729326248,
+        0.09803921729326248
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 102120,
+      "componentType": 5126,
+      "count": 1597,
+      "max": [
+        1.199779987335205,
+        0.9985499978065491
+      ],
+      "min": [
+        0.002529999939724803,
+        0.005419999826699495
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 59100,
+      "componentType": 5125,
+      "count": 2082,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "ApfelTV (https://sketchfab.com/ApfelTV)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/assault-rifle-ak-47-b85cc2acb3274f45967df708c0b3bf8e",
+      "title": "Assault Rifle / AK-47"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 67428,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 114896,
+      "byteOffset": 67428,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 517032,
+      "byteOffset": 182324,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 699356,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/assaultrifle_0_baseColor.png"
+    },
+    {
+      "uri": "textures/clip_baseColor.png"
+    },
+    {
+      "uri": "textures/body2_1_baseColor.png"
+    },
+    {
+      "uri": "textures/trademarks_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "assaultrifle_0",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.40415396341463417,
+        "roughnessFactor": 0.5565929878048781
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "clip",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "body_1",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "body2_1",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.483422256097561
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "body2_2",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "trademarks",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "body_3",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "assaultrifle_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 2,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "assaultrifle_1",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 7,
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "assaultrifle_2",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 12,
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "assaultrifle_3",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 17,
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "assaultrifle_4",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 22,
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TEXCOORD_0": 23
+          },
+          "indices": 24,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "assaultrifle_5",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 27,
+            "NORMAL": 26,
+            "POSITION": 25,
+            "TEXCOORD_0": 28
+          },
+          "indices": 29,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "assaultrifle_mag_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 32,
+            "NORMAL": 31,
+            "POSITION": 30,
+            "TEXCOORD_0": 33
+          },
+          "indices": 34,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        9
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "name": "assaultrifle"
+    },
+    {
+      "mesh": 0,
+      "name": "assaultrifle_0"
+    },
+    {
+      "mesh": 1,
+      "name": "assaultrifle_1"
+    },
+    {
+      "mesh": 2,
+      "name": "assaultrifle_2"
+    },
+    {
+      "mesh": 3,
+      "name": "assaultrifle_3"
+    },
+    {
+      "mesh": 4,
+      "name": "assaultrifle_4"
+    },
+    {
+      "mesh": 5,
+      "name": "assaultrifle_5"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.11202000000000002,
+        0.0,
+        0.04159000000000001,
+        1.0
+      ],
+      "name": "assaultrifle_mag"
+    },
+    {
+      "mesh": 6,
+      "name": "assaultrifle_mag_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
